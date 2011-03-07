@@ -1,1 +1,3 @@
-<?="Hola Mundo!"?>
+<?php
+	require_once("app/app.php");
+?>
